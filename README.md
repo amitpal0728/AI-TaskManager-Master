@@ -25,7 +25,7 @@ This is a **Next.js** project built with **React, TypeScript, and Clerk authenti
 
 ### 1️⃣ Clone the Repository
 
-git clone []
+git clone [https://github.com/amitpal0728/AI-TaskManager-Master.git]
 cd my-next-app
 ----
 2️⃣ Install Dependencies
@@ -34,6 +34,8 @@ npm install
 # OR
 yarn install
 3️⃣ Setup Environment Variables
+
+
 Create a .env.local file and add:
 
 ---
@@ -79,8 +81,3 @@ Feel free to fork this repo, open issues, or create PRs to improve the project.
 📜 License
 This project is MIT licensed. You are free to use, modify, and distribute it. 🚀
 
-
-
----
-
-🔹 Let me know if you want any customizations! 🚀
