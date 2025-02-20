@@ -25,7 +25,7 @@ This is a **Next.js** project built with **React, TypeScript, and Clerk authenti
 
 ### 1️⃣ Clone the Repository
 
-git clone [https://github.com/yourusername/my-next-app.git](https://github.com/amitpal0728/aitaskmanager.git)
+git clone []
 cd my-next-app
 ----
 2️⃣ Install Dependencies
@@ -74,7 +74,7 @@ Alternatively, deploy on Netlify, AWS, or Docker.
 ✨ Contributing
 Feel free to fork this repo, open issues, or create PRs to improve the project.
 
-📌 Maintainer: Amit Pal @amitpal0728@gmail.com
+📌 Maintainer: Amit Pal amitpal0728@gmail.com
 
 📜 License
 This project is MIT licensed. You are free to use, modify, and distribute it. 🚀
